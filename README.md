@@ -252,7 +252,8 @@ Predicted Temperature: 23.05 °C
 
 ## Daily Mean Temperature Trend
 
-<img width="503" height="235" alt="image" src="https://github.com/user-attachments/assets/ca9e7220-3b5c-4584-abf8-1ed9d2424a0b" />
+<img width="503" height="235" alt="Screenshot 2026-07-06 001357" src="https://github.com/user-attachments/assets/faad6476-f758-4f5a-be61-ec9c8a79b23a" />
+
 
 
 ---
