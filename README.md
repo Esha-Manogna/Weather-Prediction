@@ -1,16 +1,16 @@
-🌦️ Weather Data Analysis and Prediction using Machine Learning
+# 🌦️ Weather Data Analysis and Prediction using Machine Learning
 
-📌 Project Overview
+## 📌 Project Overview
 
-Weather Data Analysis and Prediction is a Machine Learning project that analyzes historical 
-weather data and predicts the daily mean temperature using historical weather attributes.
-The project uses weather parameters such as humidity, wind speed, and atmospheric pressure to build a Linear
-Regression model capable of predicting the average daily temperature.
-This project demonstrates the complete Machine Learning workflow, including data preprocessing, 
-visualization, model training, evaluation, model persistence, and prediction.
+Weather Data Analysis and Prediction is a Machine Learning project that analyzes historical weather data and predicts the daily mean temperature using historical weather attributes.
 
+The project uses weather parameters such as humidity, wind speed, and atmospheric pressure to build a Linear Regression model capable of predicting the average daily temperature.
 
-🎯 Objective
+This project demonstrates the complete Machine Learning workflow, including data preprocessing, visualization, model training, evaluation, model persistence, and prediction.
+
+---
+
+# 🎯 Objective
 
 The main objective of this project is to:
 
@@ -21,7 +21,9 @@ The main objective of this project is to:
 - Evaluate model performance using regression metrics.
 - Save the trained model for future predictions.
 
-🛠️ Technologies Used
+---
+
+# 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -33,11 +35,13 @@ The main objective of this project is to:
 - VS Code
 - Git & GitHub
 
-📂 Dataset
+---
 
-Dataset: Daily Delhi Climate Dataset
+# 📂 Dataset
 
-The dataset contains 1462 daily weather records with the following features:
+**Dataset:** Daily Delhi Climate Dataset
+
+The dataset contains **1462 daily weather records** with the following features:
 
 - Date
 - Mean Temperature
@@ -45,7 +49,9 @@ The dataset contains 1462 daily weather records with the following features:
 - Wind Speed
 - Mean Pressure
 
-📊 Project Workflow
+---
+
+# 📊 Project Workflow
 
 1. Data Collection
 2. Data Loading
@@ -60,7 +66,9 @@ The dataset contains 1462 daily weather records with the following features:
 11. Save Trained Model
 12. Predict Temperature
 
-📈 Visualizations
+---
+
+# 📈 Visualizations
 
 The following visualizations were generated during Exploratory Data Analysis (EDA):
 
@@ -69,12 +77,15 @@ The following visualizations were generated during Exploratory Data Analysis (ED
 
 These visualizations help understand seasonal temperature changes and humidity variations over time.
 
-🤖 Machine Learning Model
+---
+
+# 🤖 Machine Learning Model
 
 The following Machine Learning algorithm was implemented:
 
 - Linear Regression
-Input Features
+
+### Input Features
 
 - Humidity
 - Wind Speed
@@ -86,13 +97,14 @@ Input Features
 
 ---
 
-📊 Model Performance
+# 📊 Model Performance
 
 | Metric | Value |
-|--------|-------|
+|---------|--------|
 | Mean Absolute Error (MAE) | 5.20 |
 | Mean Squared Error (MSE) | 37.16 |
 | R² Score | 0.309 |
+
 ---
 
 # 🏆 Model Summary
@@ -240,19 +252,22 @@ Predicted Temperature: 23.05 °C
 
 ## Daily Mean Temperature Trend
 
-(Add Screenshot Here)
+<img width="503" height="235" alt="image" src="https://github.com/user-attachments/assets/ca9e7220-3b5c-4584-abf8-1ed9d2424a0b" />
+
 
 ---
 
 ## Daily Humidity Trend
 
-(Add Screenshot Here)
+<img width="500" height="230" alt="image" src="https://github.com/user-attachments/assets/6dd4b2ea-7a2c-4ff2-acaf-ad3190520f2f" />
+
 
 ---
 
 ## Actual vs Predicted Values
 
-(Add Screenshot Here)
+<img width="500" height="235" alt="image" src="https://github.com/user-attachments/assets/01d1b4cb-2ec3-40e1-b756-94b4f9c6c4cb" />
+
 
 ---
 
