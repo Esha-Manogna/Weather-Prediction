@@ -274,7 +274,8 @@ Predicted Temperature: 23.05 °C
 
 ## Prediction Output
 
-<img width="518" height="101" alt="image" src="https://github.com/user-attachments/assets/7547287d-7840-4c1b-bb8b-bed23fe5310f" />
+<img width="221" height="14" alt="image" src="https://github.com/user-attachments/assets/de36d7fe-05e9-4bbd-8af5-e3a9e04e035f" />
+
 
 
 ---
